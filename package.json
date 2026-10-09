@@ -1,0 +1,13 @@
+{
+  "name": "pre-entrega-back-end-nodejs-2026",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Pablo Agustin Espindola",
+  "license": "MIT",
+  "type": "module"
+}
